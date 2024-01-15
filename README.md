@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Ole4kaTheAllmighty/Ole4kaTheAllmighty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Olga, I am a video editor from Germany focusing on application of AI in cinematic production. 
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Video Editing
+- AI
+- FPV Drones
+- Cats
+- Travelling
+
+You can find my works at: [oal-studio.de](https://oal-studio.de).
